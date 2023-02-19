@@ -1,1 +1,14 @@
-
+<?xml version="1.0"?>
+<BugReport BugReportNumber="99503" BugReportDate="2023-02-19">
+  <TitleNotes>404 error when trying to subscribe to a newsletter on the subscription page</itleNotes>
+  <Steps to reproduce>
+    <FirstStep>Go to the subscription page at {}</FirstStep>
+    <SecondStep>Enter email address {} in the "Address" field</SecondStep>
+    <ThirdStep>Click the "Subscribe" button</ThirdStep>
+   </Steps to reproduce>
+  <ExpectedResult>Getting the success page "Thank you! You have successfully subscribed"</ExpectedResult>
+  <ActualResult>404 error</ActualResult>
+  <Environment>Mac Os 12.5 Chrome 109.0.5414.119</Environment>
+  <Priority>High</Priority>
+  <Attachment>Screencast</Attachment>
+</BugReport>
