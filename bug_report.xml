@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <BugReport BugReportNumber="99503" BugReportDate="2023-02-19">
-  <TitleNotes>404 error when trying to subscribe to a newsletter on the subscription page</itleNotes>
+  <TitleNotes>404 error when trying to subscribe to a newsletter on the subscription page</TitleNotes>
   <Steps to reproduce>
     <FirstStep>Go to the subscription page at {}</FirstStep>
     <SecondStep>Enter email address {} in the "Address" field</SecondStep>
