@@ -1,6 +1,9 @@
-<favorite movie>The Grand Budapest Hotel</favorite movie>
-<favorite series>What We Do in the Shadows</favorite series>
-<favorite food>Uzbek palov</favorite food>
-<favorite season>summer</favorite season>
-<country of dreams>USA</country of dreams>
-
+<favorite>
+    <movie>The Grand Budapest Hotel</movie>
+    <series>What We Do in the Shadows</series>
+    <food>Uzbek palov</food>
+    <season>summer</season>
+</favorite>
+<dream>
+    <country>USA</country>
+</dream>

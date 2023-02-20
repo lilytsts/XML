@@ -1,18 +1,76 @@
 <?xml version="1.0"?>
-<CAT>
-  <BASIC THEORY>TESTING</BASIC THEORY>
-  <HTTP METHODS>REQUESTS AND RESONSE TO THE SERVER</HTTP METHODS>
-  <POSTMAN>API TESTING</POSTMAN>
-  <JSON>STRUCTURE</JSON>
-  <XML>STRUCTURE</XML>
-  <DEV TOOLS OF WEB BROWSERS>GOOGLE CHROME, FIREFOX</DEV TOOLS OF WEB BROWSERS>
-  <SNIFFING>CHARLES AND FIDDLER</SNIFFING>
-  <VPN>TOOL OPTIONS</VPN>
-  <GUIDELINES>IOS, ANDROID</GUIDELINES>
-  <TERMINAL>BASIC COMMANDS</TERMINAL>
-  <SQL>BASIC COMMANDS</SQL>
-  <DATABASE>NON-RELATIONAL AND RELATIONAL</DATABASE>
-  <STRESS TESTINS TOOLS>JMETER</STRESS TESTINS TOOLS>
-  <DEVELOPMENT METHODOLOGY>SCRUM</DEVELOPMENT METHODOLOGY>
-</CAT>
+<BASICS>
+  <THEORY>
+    <TESTING>What is testing, bug reports, documentation, types, methods, directions of testing</TESTING>
+    <SDLC>Software Development Life Cycle</SDLC>
+    <STLC>Software Testing Life Cycle</STLC>
+  </THEORY>
+  <CLIENT_SERVER_ARCHITECTURE>What is client-server architecture</CLIENT_SERVER_ARCHITECTURE>
+  <HTTP>
+    <METHODS>HTTP request methods to the server</METHODS>
+    <RESPONSE_CODES>HTTP server response codes</RESPONSE_CODES>
+    <STRUCTURES>
+      <REQUESTS>Structures of HTTP requests and responses</REQUESTS>
+      <JSON>What is JSON, XML. Their structure.</JSON>
+      <XML>What is XML</XML>
+    </STRUCTURES>
+  </HTTP>
+  <API_TESTING>
+    <POSTMAN>API testing through Postman (JS, API automated tests)</POSTMAN>
+  </API_TESTING>
+  <LOGS>
+    <EXTERNAL_SERVER>Capturing and reading logs from an external server</EXTERNAL_SERVER>
+    <SNIFFING>
+      <TOOLS>
+        <CHARLES>Sniffing http web traffic through Charles and Fiddler</CHARLES>
+        <FIDDLER></FIDDLER>
+      </TOOLS>
+    </SNIFFING>
+  </LOGS>
+  <DEV_TOOLS>
+    <WEB_BROWSERS>
+      <CHROME>Dev Tools in web browsers</CHROME>
+      <FIREFOX>Dev Tools in web browsers</FIREFOX>
+    </WEB_BROWSERS>
+  </DEV_TOOLS>
+  <VPN>
+    <USAGE>VPN (How it works, why it is needed, how to use it, tool options)</USAGE>
+    <TOOLS></TOOLS>
+  </VPN>
+  <MOBILE_TESTING>
+    <PLATFORMS>
+      <IOS>guidelines</IOS>
+      <ANDROID>guidelines</ANDROID>
+    </PLATFORMS>
+    <BUILDING>
+      <IOS>Building iOS apps in XCode. (For those who don't have a Mac computer, just watch)</IOS>
+      <ANDROID>Building Android apps in Android Studio</ANDROID>
+    </BUILDING>
+    <SNIFFING>
+      <TOOLS>
+        <CHARLES>Intercepting (sniffing) mobile traffic through Charles and Fiddler on iOS and Android</CHARLES>
+        <FIDDLER></FIDDLER>
+      </TOOLS>
+    </SNIFFING>
+  </MOBILE_TESTING>
+  <COMMAND_LINE>
+    <TERMINAL>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</TERMINAL>
+    <BASH_SCRIPTING>Basics of bash scripting, automating routine tasks on the server</BASH_SCRIPTING>
+    <REMOTE_ACCESS>Access to remote servers</REMOTE_ACCESS>
+  </COMMAND_LINE>
+  <SQL>
+    <BASICS>Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</BASICS>
+    <POSTGRES>Postgres database (installation, configuration, and usage).</POSTGRES>
+    <REDIS>Non-relational Redis database (installation, configuration, and usage)</REDIS>
+  </SQL>
+  <LOAD_TESTING>
+    <JMETER>Load testing in JMeter</JMETER>
+  </LOAD_TESTING>
+  <SCRUM>METHODOLOGY>
+    <DEVELOPMENT>Scrum development methodology.</DEVELOPMENT>
+  </SCRUM>
+    <PYTHON>Learning the basics</PYTHON>PYTHON>
+
+
+
 

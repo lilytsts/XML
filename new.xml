@@ -1,4 +1,7 @@
-<Name>Liliya Tsikul</Name>
-<Age>33</Age>
-<Pets>0</Pers>
-<Salary>1000</Salary>
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+  <Name>Liliya Tsikul</Name>
+  <Age>33</Age>
+  <Pets>0</Pets>
+  <Salary>1000</Salary>
+</Person>
