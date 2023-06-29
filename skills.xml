@@ -16,7 +16,7 @@
     </STRUCTURES>
   </HTTP>
   <API_TESTING>
-    <POSTMAN>API testing through Postman (JS, API automated tests)</POSTMAN>
+    <POSTMAN>API testing through Postman (JS,API automated tests)</POSTMAN>
   </API_TESTING>
   <LOGS>
     <EXTERNAL_SERVER>Capturing and reading logs from an external server</EXTERNAL_SERVER>
