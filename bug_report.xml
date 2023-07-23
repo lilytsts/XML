@@ -7,10 +7,10 @@
     ]]>
   </Description>
   <StepsToReproduce>
-    <Step>1. Navigate to the login page</Step>
-    <Step>2. Enter valid username and password</Step>
-    <Step>3. Click the "Log in" button</Step>
-    <Step>4. Observe the error message</Step>
+    <Step>1.Navigate to the login page</Step>
+    <Step>2.Enter valid username and password</Step>
+    <Step>3.Click the "Log in" button</Step>
+    <Step>4.Observe the error message</Step>
   </StepsToReproduce>
   <ExpectedResult>
     User should be logged in to the application.
